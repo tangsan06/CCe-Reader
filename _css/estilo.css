@@ -1,0 +1,147 @@
+body{
+	background: grey;
+	padding: 0px;
+	margin: 0px;
+}
+
+#idEmitente{
+	border: 1px solid black;
+	margin: 2px;
+	color: black;
+	width: 29.3%;
+	float: left;
+	height: 200px;
+	position: relative;
+	display: flex;
+}
+
+#idEmitente h1 ,p{
+	text-align: center;
+}
+
+input {
+	color: white;
+	background: black;
+	width: 785px;
+	height: 40px;
+}
+
+input:hover {
+	color: red;
+}
+
+.topo{
+	width: 100%;
+}
+
+main{
+	width: 780px;
+	margin: auto;
+	margin-top: 0px;
+	height: 1100px;
+	background: white;
+	margin-bottom: 0px;
+}
+
+#registro{
+	border: 1px solid black;
+	margin: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: black;
+	width: 66%;
+	float: right;
+	position: relative;
+	height: 200px;
+}
+
+#registro p {
+	text-align: left;
+}
+
+.container{
+	margin: 10px;
+	margin-top: 20px;
+}
+
+.cnDest{
+	text-align: center;
+}
+
+.barras {
+	float: left;
+	border: 1px solid black;
+	width: 99.3%;
+	margin: 2px;
+}
+
+.introducao{
+	text-align: justify;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#barra{
+	width:614px;
+	margin: auto;
+}
+
+.destinatario {
+	margin: 10px;
+}
+
+.barras2 i {
+	text-align: justify;
+	color: black;
+	margin-left: 10px;
+	font-size: 14;
+}
+
+.mensagem{
+	float: left;
+	margin-top: 0px;
+	width: 100%;
+
+}
+
+.container{
+	float: left;
+	width: auto;
+}
+.mensagem h4{
+	margin-top: 0px;
+    margin-left: 10px;
+	margin-bottom: 0px;
+}
+
+.barras2 {
+	float: left;
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 98%;
+	margin: 2px;
+	padding: 5px;
+}
+
+.carta {
+	float: left;
+	border: 1px solid black;
+	width: 98%;
+	margin: 2px;
+	margin-top: 0px;
+	padding: 5px;
+	height: 500px;
+	position: relative;
+}
+
+.carta p {
+	position: absolute;
+	font-style: italic;
+	bottom: 0;
+}
+
+#emitente{
+	width: 100%;
+	text-align: center;
+	align-self: center;
+}
